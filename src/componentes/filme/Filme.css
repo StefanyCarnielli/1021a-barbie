@@ -1,0 +1,9 @@
+.filme-content {
+background-color: pink;
+width: 500px;
+}
+
+.filme-content>img{
+    width: 100%;
+    height: auto;
+}
