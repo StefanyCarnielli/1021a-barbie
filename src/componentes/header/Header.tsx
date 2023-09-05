@@ -7,18 +7,10 @@ function Header(){
   </div>
             <nav>
                 <ul>
-                    <li>
-                        <Link texto='Home'/>
-                    </li>
-                    <li>
-                        <Link texto='Notícia'/>
-                    </li>
-                    <li>
-                        <Link texto='Sobre'/>
-                    </li>
-                    <li>
-                        <Link texto='Contato'/>
-                    </li>
+                    <li><Link texto='Home'/> </li>
+                    <li><Link texto='Notícia'/></li>
+                    <li> <Link texto='Sobre'/></li>
+                    <li><Link texto='Contato'/></li>
                 </ul>
             </nav>
         </header>
