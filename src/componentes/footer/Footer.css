@@ -3,10 +3,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-   
-    position: fixed;
     width: 100vw;
-  
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
