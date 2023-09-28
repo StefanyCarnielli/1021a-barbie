@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Filme from './../filme/Filme'
+import Filme from './../filme/Filme'  
 import './Main.css'
 type FilmeType = {
     id:number,
